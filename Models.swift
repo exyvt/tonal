@@ -2,8 +2,8 @@ import Foundation
 import SwiftUI
 
 enum Config {
-    static let apiKey = "ddb8dc58eaf32f805a4bf2a55193d064"
-    static let apiSecret = "Yfafadb93567e0b0e6a8d0fe9e6c719c9"
+    static let apiKey = "APIKEY"
+    static let apiSecret = "APISECRET"
     static let defaultUsername = ""
 }
 
